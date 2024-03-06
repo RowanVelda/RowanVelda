@@ -10,7 +10,9 @@
 <div>
  <!-- <a href=" ![RowanVelda's Stats](https://github-readme-stats.vercel.app/api?username=RowanVelda&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)"> -->
   <img height=180 align="top" src="https://github-readme-stats.vercel.app/api?username=RowanVelda&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" />
+ <br>
   <img height=180 align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=RowanVelda&theme=vision-friendly-dark&hide_border=false" />
+ <br>
   <img height=180 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowanVelda&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </div>

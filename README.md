@@ -11,7 +11,7 @@
   <a href="https://github.com/rowanvelda/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=rowanvelda&theme=tokyonight" />
 </a>
-<a href="https://github.com/rowanvelda/convoychat">
+<a href="https://github.com/rowanvelda/">
   <img height=100 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanvelda&theme=tokyonight" />
 </a>
 </div>

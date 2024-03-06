@@ -8,9 +8,7 @@
 
 
 <div>
-  <a href="https://github.com/rowanvelda/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=rowanvelda&theme=tokyonight" />
-</a>
+  ![RowanVelda's Stats](https://github-readme-stats.vercel.app/api?username=RowanVelda&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 <a href="https://github.com/rowanvelda/">
   <img height=100 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowanvelda&theme=tokyonight" />
 </a>

@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando Javascript, Typescript e WordPress.
+- 🔭 Front-end developer
+- 🌱 Javascript, TypeScript, PHP, Java and WordPress.
 
 
 

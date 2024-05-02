@@ -8,7 +8,7 @@ import { IfRenderComponent } from "./components/if-render/if-render.component";
   selector: 'app-root',
   standalone: true,
   imports: [
-    RouterOutlet, 
+    RouterOutlet,
     FirstComponentComponent,
     ParentDataComponent,
     DirectivesComponent,

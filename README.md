@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Front-end developer
-- 🌱 Javascript, TypeScript, PHP, Java and WordPress.
+- 🔭 Developer
+- 🌱 Python, PHP, Javascript, TypeScript, Java and WordPress.
 
 
 
